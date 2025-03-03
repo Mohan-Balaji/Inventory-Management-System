@@ -1,4 +1,4 @@
-# Inventory Management System
+![image](https://github.com/user-attachments/assets/d163d612-09fe-4681-b998-5f45890ab9fe)![image](https://github.com/user-attachments/assets/942783ef-b02f-48a7-be59-c68f6aad5add)# Inventory Management System
 
 ## Overview
 The **Inventory Management System** is a software application designed to help businesses efficiently track and manage their inventory. It provides real-time updates on stock levels, product details, sales, and purchases, helping businesses optimize their inventory and reduce losses due to overstocking or stockouts.
@@ -73,6 +73,21 @@ http://localhost:3000
    git push origin feature-branch
    ```
 5. Open a Pull Request.
+
+6. ![image](https://github.com/user-attachments/assets/3fd08ad3-1d77-415d-9671-817fc3107f62)
+
+7. ![image](https://github.com/user-attachments/assets/eb62cb4b-ee7c-4dba-b74f-5d137107f959)
+
+8. ![image](https://github.com/user-attachments/assets/b0c20fd5-852a-401b-91ff-c2576c4bd42e)
+
+9.![image](https://github.com/user-attachments/assets/524d1979-352a-4799-a9a9-9c68d22d8efa)
+
+10. ![image](https://github.com/user-attachments/assets/f7b9349a-da1f-4ace-b813-75e7f547cccc)
+
+11. ![image](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
+
+
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
