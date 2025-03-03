@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d163d612-09fe-4681-b998-5f45890ab9fe)![image](https://github.com/user-attachments/assets/942783ef-b02f-48a7-be59-c68f6aad5add)# Inventory Management System
+# Inventory Management System
 
 ## Overview
 The **Inventory Management System** is a software application designed to help businesses efficiently track and manage their inventory. It provides real-time updates on stock levels, product details, sales, and purchases, helping businesses optimize their inventory and reduce losses due to overstocking or stockouts.
@@ -99,6 +99,16 @@ http://localhost:3000
 
    ![image](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
 
+15. SALES AND STOCK DETAILS
+
+
+   ![image](https://github.com/user-attachments/assets/916b0ebb-d479-42ec-b56f-d0decec30e55)
+
+16. USER PORTAL
+
+   ![image](https://github.com/user-attachments/assets/00d952cf-175a-46e3-9604-45ac5e6eb7e9)
+
+    
 
 
 
