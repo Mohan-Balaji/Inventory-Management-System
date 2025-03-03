@@ -74,17 +74,30 @@ http://localhost:3000
    ```
 5. Open a Pull Request.
 
-6. ![image](https://github.com/user-attachments/assets/3fd08ad3-1d77-415d-9671-817fc3107f62)
+6.LANDING PAGE
 
-7. ![image](https://github.com/user-attachments/assets/eb62cb4b-ee7c-4dba-b74f-5d137107f959)
+  ![image](https://github.com/user-attachments/assets/3fd08ad3-1d77-415d-9671-817fc3107f62)
 
-8. ![image](https://github.com/user-attachments/assets/b0c20fd5-852a-401b-91ff-c2576c4bd42e)
+10.LOGIN PAGE
 
-9.![image](https://github.com/user-attachments/assets/524d1979-352a-4799-a9a9-9c68d22d8efa)
+![image](https://github.com/user-attachments/assets/eb62cb4b-ee7c-4dba-b74f-5d137107f959)
 
-10. ![image](https://github.com/user-attachments/assets/f7b9349a-da1f-4ace-b813-75e7f547cccc)
+11. SIGN-UP PAGE
+ 
+ ![image](https://github.com/user-attachments/assets/b0c20fd5-852a-401b-91ff-c2576c4bd42e)
 
-11. ![image](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
+9.DASHBOARD
+
+![image](https://github.com/user-attachments/assets/524d1979-352a-4799-a9a9-9c68d22d8efa)
+
+10.PRODUCT PAGE
+ 
+ ![image](https://github.com/user-attachments/assets/f7b9349a-da1f-4ace-b813-75e7f547cccc)
+
+14. ORDER PAGE
+
+
+   ![image](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
 
 
 
