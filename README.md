@@ -49,7 +49,7 @@ The **Inventory Management System** is a software application designed to help b
    ```
 5. Access the system at:
    ```
-http://localhost:3000
+   http://localhost:3000
    ```
 
 ## Usage
@@ -74,48 +74,34 @@ http://localhost:3000
    ```
 5. Open a Pull Request.
 
-6.LANDING PAGE
+## Screenshots
+### Landing Page
+![Landing Page](https://github.com/user-attachments/assets/3fd08ad3-1d77-415d-9671-817fc3107f62)
 
-  ![image](https://github.com/user-attachments/assets/3fd08ad3-1d77-415d-9671-817fc3107f62)
+### Login Page
+![Login Page](https://github.com/user-attachments/assets/eb62cb4b-ee7c-4dba-b74f-5d137107f959)
 
-10.LOGIN PAGE
+### Sign-Up Page
+![Sign-Up Page](https://github.com/user-attachments/assets/b0c20fd5-852a-401b-91ff-c2576c4bd42e)
 
-![image](https://github.com/user-attachments/assets/eb62cb4b-ee7c-4dba-b74f-5d137107f959)
+### Dashboard
+![Dashboard](https://github.com/user-attachments/assets/524d1979-352a-4799-a9a9-9c68d22d8efa)
 
-11. SIGN-UP PAGE
- 
- ![image](https://github.com/user-attachments/assets/b0c20fd5-852a-401b-91ff-c2576c4bd42e)
+### Product Page
+![Product Page](https://github.com/user-attachments/assets/f7b9349a-da1f-4ace-b813-75e7f547cccc)
 
-9.DASHBOARD
+### Order Page
+![Order Page](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
 
-![image](https://github.com/user-attachments/assets/524d1979-352a-4799-a9a9-9c68d22d8efa)
-
-10.PRODUCT PAGE
- 
- ![image](https://github.com/user-attachments/assets/f7b9349a-da1f-4ace-b813-75e7f547cccc)
-
-14. ORDER PAGE
-
-
-   ![image](https://github.com/user-attachments/assets/f27807f7-0cf0-4f36-92df-95df2434a304)
-
-15. SALES AND STOCK DETAILS
+### Sales & Stock Details*![image](https://github.com/user-attachments/assets/a30fad0b-ef0f-4b60-993d-0d72881def2c)
 
 
-   ![image](https://github.com/user-attachments/assets/916b0ebb-d479-42ec-b56f-d0decec30e55)
-
-16. USER PORTAL
-
-   ![image](https://github.com/user-attachments/assets/00d952cf-175a-46e3-9604-45ac5e6eb7e9)
-
-    
-
-
+### User Portal
+![User Portal](https://github.com/user-attachments/assets/00d952cf-175a-46e3-9604-45ac5e6eb7e9)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or issues, contact Mohan Balaji at [bmohanbalaji1976@gmail.com].
-
+For any queries or issues, contact **Mohan Balaji** at [bmohanbalaji1976@gmail.com].
 
