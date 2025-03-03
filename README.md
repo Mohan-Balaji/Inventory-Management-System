@@ -78,6 +78,6 @@ http://localhost:3000
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or issues, contact [Your Name] at [your.email@example.com].
+For any queries or issues, contact Mohan Balaji at [bmohanbalaji1976@gmail.com].
 
 
